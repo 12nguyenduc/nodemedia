@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/color-v23/abc_tint_default.xml"
+    }
+]

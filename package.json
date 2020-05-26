@@ -1,0 +1,39 @@
+{
+  "_from": "react-native-nodemediaclient",
+  "_id": "react-native-nodemediaclient@0.1.11",
+  "_inBundle": false,
+  "_integrity": "sha512-Cm0R+eNf1wdrhrvHSQw5t0GRlqu4vN6M6bXDiw67F3NraekcO3udSKuRP8H/+wZ6POqr2yXYddJ/RERkscCwHw==",
+  "_location": "/react-native-nodemediaclient",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-nodemediaclient",
+    "name": "react-native-nodemediaclient",
+    "escapedName": "react-native-nodemediaclient",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-nodemediaclient/-/react-native-nodemediaclient-0.1.11.tgz",
+  "_shasum": "be96e8dca1a719db90d5ded03dd6b6ef0e5f6720",
+  "_spec": "react-native-nodemediaclient",
+  "_where": "/Users/tima/vaytiennhanh",
+  "author": {
+    "name": "Mingliang Chen"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This project is the react-native packaging of NodeMediaClient-Android and NodeMediaClient-iOS SDK.",
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-nodemediaclient",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.11"
+}

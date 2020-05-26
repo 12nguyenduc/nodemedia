@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/51e55c36b71a67c34aa97b7b42a9dc17/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/51e55c36b71a67c34aa97b7b42a9dc17/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/51e55c36b71a67c34aa97b7b42a9dc17/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/51e55c36b71a67c34aa97b7b42a9dc17/res/layout-v21/notification_action.xml"
+    }
+]

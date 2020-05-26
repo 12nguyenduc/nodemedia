@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/0fac15f1eaa4dc4921fe85f2e4558b61/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/0fac15f1eaa4dc4921fe85f2e4558b61/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/0fac15f1eaa4dc4921fe85f2e4558b61/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/0fac15f1eaa4dc4921fe85f2e4558b61/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/0fac15f1eaa4dc4921fe85f2e4558b61/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/5798473d1343d74dd387c0acb560c986/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/tima/vaytiennhanh/node_modules/react-native-nodemediaclient/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/tima/.gradle/caches/transforms-2/files-2.1/0fac15f1eaa4dc4921fe85f2e4558b61/res/anim/catalyst_fade_in.xml"
+    }
+]
